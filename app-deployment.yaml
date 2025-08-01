@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: todo-app
-        image: osalem192/updated-trialapp
+        image: osalem192/triak:v10
         ports:
         - containerPort: 4000
         env:
