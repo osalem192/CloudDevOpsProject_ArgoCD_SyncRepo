@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: todo-app
-        image: osalem192/ivolve_finalproject:v7
+        image: osalem192/ivolve_finalproject:v8
         ports:
         - containerPort: 4000
         env:
